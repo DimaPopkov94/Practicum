@@ -3,6 +3,6 @@
 | Название проекта        | Описание           | Библиотеки  |
 | ------------- |:-------------:| -----:|
 | ABtest      | Оценка результатов А/В теста с учетом требований ТЗ | Pandas Numpy Scipy Matplotlib Seaborn Math|
-| Apartment      | Анализ корреляции цен на недвижимость в СПб|pandas matplotlib|
+| Apartment      | Анализ корреляции цен на недвижимость с площадью квартиры, удаленностью от центра, количеством комат и т.д. в СПб|pandas matplotlib|
 | GameAdvertisingSource | Сравнение рекламных источников и анализ игрового поведения пользователей| Pandas Numpy Scipy Matplotlib Seaborn |
-| RateComm | |Сравнение тарифов связи| |Pandas Numpy Scipy Matplotlib|
+| RateComm | Сравнение тарифов связи по затрачиваемому трафику, минутам связи и приносимому доходу | Pandas Numpy Scipy Matplotlib|
